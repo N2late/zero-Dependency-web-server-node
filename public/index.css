@@ -1,0 +1,13 @@
+.title {
+  font-size: 18;
+  font-weight: 500;
+  line-height: 1.4;
+  color: blue;
+}
+
+.title-htm {
+  font-size: 15;
+  font-weight: 500;
+  line-height: 1.4;
+  color: lightslategray;
+}
