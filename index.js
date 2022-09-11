@@ -109,7 +109,7 @@ const server = http.createServer(function (req, res) {
       res.write(readMe);
     }
   } else {
-    res.writeHead(200, {
+    res.writeHead(404, {
       'Content-Type': 'text/html',
     });
     const readMe = fs.readFileSync('404.html');
