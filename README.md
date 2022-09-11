@@ -1,4 +1,4 @@
-# zero-dependency-web-server-node
+# Zero-dependency Web Server (Nodejs)
 
 A Node.js command line program with zero dependencies (nothing except the UpLeveled ESLint config dependencies in `"dependencies"` or `"devDependencies"` in `package.json`) that will creates a web server that runs on localhost.
 
